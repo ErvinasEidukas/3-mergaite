@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+header{
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    margin-top: 10%;
+    background-color: white;
+}
+
+img{
+    display: inline-block;
+    height: 50px;
+    float: left;
+}
+
+nav{
+    background-color: yellow;
+    display: inline-block;
+    float: right;
+    margin-top: 13px;
+}
+
+a{
+    display: inline-block;
+    line-height: 24px;
+    font-size: 18px;
+}
+
+main{
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color:white;
+}
+
+div{
+    display: inline-block;
+
+}
+
+h1{
+    display: inline-block;
+}
+
+p{
+    display: inline-block;
+}
